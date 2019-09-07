@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2013\Projects\EnginDemiroğ\AbstractAndInterfaceForRealLife\AbstractAndInterfaces\AbstractAndInterfaces\bin\Debug\AbstractAndInterfaces.exe.config
+C:\Users\pc\Documents\Visual Studio 2013\Projects\EnginDemiroğ\AbstractAndInterfaceForRealLife\AbstractAndInterfaces\AbstractAndInterfaces\obj\Debug\AbstractAndInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\EnginDemiroğ\AbstractAndInterfaceForRealLife\AbstractAndInterfaces\AbstractAndInterfaces\bin\Debug\AbstractAndInterfaces.exe
+C:\Users\pc\Documents\Visual Studio 2013\Projects\EnginDemiroğ\AbstractAndInterfaceForRealLife\AbstractAndInterfaces\AbstractAndInterfaces\bin\Debug\AbstractAndInterfaces.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\EnginDemiroğ\AbstractAndInterfaceForRealLife\AbstractAndInterfaces\AbstractAndInterfaces\obj\Debug\AbstractAndInterfaces.exe
+C:\Users\pc\Documents\Visual Studio 2013\Projects\EnginDemiroğ\AbstractAndInterfaceForRealLife\AbstractAndInterfaces\AbstractAndInterfaces\obj\Debug\AbstractAndInterfaces.pdb
